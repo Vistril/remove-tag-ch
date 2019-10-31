@@ -12,6 +12,7 @@ Create a .txt file called `formattedsong.txt` IN YOUR CLONE HERO FOLDER!!
 
 For UNIX users:
 `chmod +x ./run.sh
+
 ./run.sh`
 
 For Windows Users, double click run.bat
