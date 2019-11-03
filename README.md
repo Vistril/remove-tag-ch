@@ -6,7 +6,7 @@ How to use:
 
 First, clear any data that may be left in your currentsong.txt
 
-[Download the program](https://github.com/Vistril/remove-tag-ch/archive/master.zip), unzip it and copy all the files INTO YOUR CLONE HERO FOLDER!!
+[Download the program](https://github.com/Vistril/remove-tag-ch/archive/master.zip), unzip it and put the folder INSIDE YOUR CLONE HERO FOLDER!!
 
 For UNIX users:
 `node songfixer.js`
