@@ -2,20 +2,15 @@
 Removes nasty &lt;color=X> tags from your currentsong.txt, useful for streamers
 How to use: 
 
-(requires git and node.js)
+(requires node.js)
 
 First, clear any data that may be left in your currentsong.txt
 
-With Git, run `git clone Vistril/remove-tag-ch .` using terminal, cmd or powershell IN YOUR CLONE HERO FOLDER!!
-
-Create a .txt file called `formattedsong.txt` IN YOUR CLONE HERO FOLDER!!
+[Download the program](https://github.com/Vistril/remove-tag-ch/archive/master.zip), unzip it and copy all the files INTO YOUR CLONE HERO FOLDER!!
 
 For UNIX users:
-`chmod +x ./run.sh`
-
-`./run.sh`
+`node songfixer.js`
 
 For Windows Users, double click run.bat
 
 Stream and enjoy.
-
